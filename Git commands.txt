@@ -44,3 +44,5 @@ git config --global user.email
 s1: after commiting code in feature branch
 s2: checkout to master branch and take pull (Note: pull should not have any confilcts)
 s3: Execute Git merge "your feature branch name"
+
+#Git merging 
