@@ -39,3 +39,8 @@ git stash apply
 # To check global user and email
 git config --global user.name
 git config --global user.email
+
+# How to merge your feature branch code to master branch 
+s1: after commiting code in feature branch
+s2: checkout to master branch and take pull (Note: pull should not have any confilcts)
+s3: Execute Git merge "your feature branch name"
