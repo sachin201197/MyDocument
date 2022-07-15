@@ -36,4 +36,6 @@ git stash
 git stash apply
 
 
-
+# To check global user and email
+git config --global user.name
+git config --global user.email
